@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PartialHero</string>
+    <string name="adivinar">Adivinar</string>
+    <string name="welcome_trivia_hero">Welcome Trivia Hero!</string>
+    <string name="namePerson">James Logan</string>
+    <string name="photo_person">hugh jackman</string>
+    <string name="textView_movie1">Logan</string>
+    <string name="textView_movie2">The Wolverine</string>
+    <string name="textView_movie3">X-Men dias del futuro pasado</string>
+    <string name="textView_movie4">Dead Pool 2</string>
+    <string name="description_textView">Ha aparecido en la mayoría de las adaptaciones de X-Men a los medios, incluyendo series animadas de televisión, videojuegos, y la serie de películas de 20th Century Fox en la que es interpretado por Hugh Jackman en nueve de las diez películas. cuyo nombre de nacimiento es James Howlett (también conocido como James Logan o simplemente Logan) Es un superhéroe ficticio que aparece en los cómics estadounidenses publicado por Marvel Comics, principalmente en asociación con los X-Men.</string>
+    <string name="movie_billboard1">Logan</string>
+    <string name="movie_billboard2">The wolverine</string>
+    <string name="movie_billboard3">X-Men dias del futuro pasado</string>
+    <string name="movie_billboard4">Dead pool 2</string>
+    <string name="titlet_textView">Bienvenido! Trivia Hero adivina el superheroe</string>
+    <string name="What_is_nickname_hero">Whats is the name of the hero</string>
+    <string name="adivinar_button">Adivinar</string>
+</resources>
